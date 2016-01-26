@@ -37,6 +37,7 @@ namespace ArduinoUI
 
                     var frame = _port.ReadLine();
 
+
                     if (!string.IsNullOrWhiteSpace(frame) && frame != _oldFrame)
                     {
                         HandleFrame(frame);
