@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LED_Switch", "..\LED_Switch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JoyStickController", "..\JoyStickController\JoyStickController.vcxproj", "{3D254C96-E851-4C71-AA1F-8B4BA3C2C0C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGB_LED", "..\RGB_LED\RGB_LED.vcxproj", "{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,16 @@ Global
 		{3D254C96-E851-4C71-AA1F-8B4BA3C2C0C1}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{3D254C96-E851-4C71-AA1F-8B4BA3C2C0C1}.Release|Win32.ActiveCfg = Release|Win32
 		{3D254C96-E851-4C71-AA1F-8B4BA3C2C0C1}.Release|Win32.Build.0 = Release|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Debug|Win32.Build.0 = Debug|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Release|Win32.ActiveCfg = Release|Win32
+		{C55CC66D-DAC2-4A6E-BBE1-E4C59926D3BE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,6 +23,8 @@ void setup()
 
 void loop()
 {
+	delay(100);
+
 	/* 1023 to reverse read */
 	rightX = 1023 - analogRead(RIGHT_JOYSTICK_X_PIN);
 	delayMicroseconds(100);
@@ -40,7 +42,6 @@ void loop()
 
 	formatFrame();
 
-	delay(100);
 	/* add main program code here */
 }
 
